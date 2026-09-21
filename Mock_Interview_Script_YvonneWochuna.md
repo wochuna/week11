@@ -8,17 +8,7 @@ Action, Result) is what matters, not the exact phrasing.
 
 ## Warm-up
 
-**Interviewer:** "Tell me about yourself."
-
-**Suggested answer:** "I'm a Biomedical Engineering graduate from Kenyatta University who moved into
-data and cloud work over the last year. After graduating, I did AWS cloud training and became an
-AWS Certified Cloud Practitioner, then completed a Data Science & AI program where I worked on
-real-world datasets — cleaning data, running exploratory analysis, and building machine learning
-models in Python. Right now I'm a DevOps Engineer at E&M Technology House, where I containerize
-applications with Docker and manage deployments, and I also just finished a hackathon project
-called FlowGuard, where I worked as the data engineer on a decision-intelligence platform for
-Kenya Pipeline Company. I'm looking for a role where I can keep combining data analysis with
-hands-on technical delivery."
+"I'm a Computer Science graduate from Kabarak University, and I've spent the last year building out my backend development skills. I completed ALX's Backend Development program, and I'm currently studying Data Analytics with the Power Learn Project. Right now I'm a Software Developer Intern at E&M Technology House, and outside of that I've worked on projects like a distributor financing platform built with Java and Spring Boot, which bridges the financing gap between manufacturers and distributors. I also recently worked on a hackathon project with the KPC Inuka Fellowship — an AI/ML system aimed at reducing truck congestion in Kenya Pipeline Company's depot yards. I'm looking for a role where I can keep growing as a backend developer while applying the data skills I'm building."
 
 ---
 
